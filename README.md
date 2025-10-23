@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Deep Sutariya  
 
 🚀 **Data Scientist | Machine Learning Engineer | AI Enthusiast**  
+
 I’m passionate about designing intelligent systems that scale — blending **Machine Learning**, **Computer Vision**, and **Cloud Infrastructure** to deliver impactful, production-ready solutions.  
 
 ---
@@ -52,7 +53,7 @@ I’m passionate about designing intelligent systems that scale — blending **M
 ## 📬 Let's Connect  
 
 - 📧 **Email:** [deepsutariya346@gmail.com](mailto:deepsutariya346@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/deepsutariya]([https://linkedin.com/in/deepsutariya](https://www.linkedin.com/in/deep-sutariya-831a31253/))  
+- 💼 **LinkedIn:** [Linkedin](https://www.linkedin.com/in/deep-sutariya-831a31253/])  
 
 ---
 
