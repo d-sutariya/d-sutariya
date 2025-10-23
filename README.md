@@ -1,61 +1,86 @@
 # 👋 Hi, I'm Deep Sutariya  
 
 🚀 **Data Scientist | Machine Learning Engineer | AI Enthusiast**  
-
-I’m passionate about designing intelligent systems that scale — blending **Machine Learning**, **Computer Vision**, and **Cloud Infrastructure** to deliver impactful, production-ready solutions.  
+I’m passionate about designing intelligent systems that scale — blending **Machine Learning**, **Computer Vision**, and **Cloud Infrastructure** to deliver impactful, production-ready solutions.
 
 ---
 
 ## 🧠 About Me  
 
-- 🎯 Skilled in developing and deploying **AI/ML models**, **Computer Vision systems**, and **backend APIs**.  
-- ☁️ Currently exploring **MLOps** and **Cloud Computing** — focusing on workflow automation, CI/CD, and scalable ML systems.  
-- 💬 I enjoy simplifying complex problems and collaborating on innovative projects that merge data with real-world impact.  
+- 🎯 Skilled in developing and deploying **AI/ML models**, **Computer Vision systems**, and **backend APIs**  
+- ☁️ Currently exploring **MLOps** and **Cloud Computing** — focusing on workflow automation, CI/CD, and scalable ML systems  
+- 💬 I enjoy simplifying complex problems and collaborating on innovative projects that merge data with real-world impact  
 
 ---
 
-## 🛠️ Technical Skills  
+## 🛠️ Tech Stack  
 
-### **Languages**
-- Python (Data Structures & Algorithms), SQL  
+### 💻 **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### **Artificial Intelligence, Machine Learning & Computer Vision**
-- Scikit-learn, XGBoost, PyTorch  
-- Image processing, feature extraction, and model training for visual recognition tasks  
+### 🤖 **AI / ML / Computer Vision**
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-1E90FF?style=for-the-badge)
 
-### **Backend Development**
-- FastAPI, Flask, Git  
-- Databases: MySQL, SQLite, MongoDB  
-- Vector Databases: FAISS, ChromaDB  
+### 🧩 **Backend Development**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-336791?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-005571?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-663399?style=for-the-badge)
 
-### **Data Science & Engineering**
-- PySpark, Numpy, Pandas, Matplotlib, Power BI  
+### 📊 **Data Science & Engineering**
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### **Cloud & Deployment**
-- AWS, Docker, CI/CD  
+### ☁️ **Cloud & Deployment**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-181717?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### **NLP & Generative AI**
-- LangChain (RAG), LangGraph (AI Agents), MCP Protocol  
+### 🧠 **NLP & Generative AI**
+![LangChain](https://img.shields.io/badge/LangChain-00C7B7?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-0078D7?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP%20Protocol-FF4B4B?style=for-the-badge)
 
-### **Soft Skills**
-- Debugging, Communication, Teamwork, Problem-Solving, Adaptability  
+### 🧰 **Software & Tools**
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📈 Current Focus  
+## 📈 My GitHub Stats  
 
-🔹 **MLOps** – Automating ML workflows, versioning, monitoring, and deployment pipelines.  
-🔹 **Cloud Computing** – Leveraging AWS and Docker to build scalable AI systems.  
-🔹 **Computer Vision** – Building visual intelligence pipelines for real-world applications.  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=deepsutariya&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepsutariya&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 📬 Let's Connect  
+## 🤝 Let's Connect  
 
-- 📧 **Email:** [deepsutariya346@gmail.com](mailto:deepsutariya346@gmail.com)  
-- 💼 **LinkedIn:** [Linkedin](https://www.linkedin.com/in/deep-sutariya-831a31253/])  
+<p align="center">
+  <a href="https://www.linkedin.com/in/deep-sutariya-831a31253/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:deepsutariya346@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ⭐ *Always open to collaborations in AI, MLOps, Cloud, and Computer Vision projects!*
-deep linkedin
