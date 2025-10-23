@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Deep Sutariya  
 
 🚀 **Data Scientist | Machine Learning Engineer | AI Enthusiast**  
-I’m passionate about designing intelligent systems that scale — blending **Machine Learning**, **Computer Vision**, and **Cloud Infrastructure** to deliver impactful, production-ready solutions.
+I’m passionate about designing intelligent systems that scale — blending **Machine Learning**, **Computer Vision**, and **Cloud Infrastructure** to deliver impactful, production-ready solutions.  
 
 ---
 
@@ -23,13 +23,14 @@ I’m passionate about designing intelligent systems that scale — blending **M
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-1E90FF?style=for-the-badge)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Vision Transformers](https://img.shields.io/badge/Vision%20Transformers-8A2BE2?style=for-the-badge)
 
 ### 🧩 **Backend Development**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-336791?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -51,7 +52,7 @@ I’m passionate about designing intelligent systems that scale — blending **M
 ### 🧠 **NLP & Generative AI**
 ![LangChain](https://img.shields.io/badge/LangChain-00C7B7?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0078D7?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP%20Protocol-FF4B4B?style=for-the-badge)
+![MCP Protocol](https://img.shields.io/badge/MCP%20Protocol-FF4B4B?style=for-the-badge)
 
 ### 🧰 **Software & Tools**
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -59,16 +60,6 @@ I’m passionate about designing intelligent systems that scale — blending **M
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-## 📈 My GitHub Stats  
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=deepsutariya&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepsutariya&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🤝 Let's Connect  
 
@@ -76,7 +67,7 @@ I’m passionate about designing intelligent systems that scale — blending **M
   <a href="https://www.linkedin.com/in/deep-sutariya-831a31253/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:deepsutariya346@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=deepsutariya346@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
