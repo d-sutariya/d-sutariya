@@ -62,17 +62,6 @@ I’m passionate about designing intelligent systems that scale — blending **M
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-## 🤝 Let's Connect  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/deep-sutariya-831a31253/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=deepsutariya346@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 ⭐ *Always open to collaborations in AI, MLOps, Cloud, and Computer Vision projects!*
